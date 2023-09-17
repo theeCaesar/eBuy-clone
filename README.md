@@ -3,7 +3,7 @@
 this is the backend api for the ebay clone project, built with express.js and mongodb
 
 I made this project from scratch to gain some experience 
-if u have any notes or advice please contact through my accounts in the contact section of this file
+if u have any notes or advice please contact me through my accounts in the contact section of this file
 
 ## Installation
 
