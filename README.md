@@ -5,6 +5,9 @@ this is the backend api for the ebay clone project, built with express.js and mo
 I made this project from scratch to gain some experience 
 if u have any notes or advice please contact me through my accounts in the contact section of this file
 
+
+though this is an eBay clone it doesn't has a payment management system yet
+
 ## Installation
 
 To get started with this project, follow these steps:
