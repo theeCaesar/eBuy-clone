@@ -136,4 +136,6 @@ If you have any questions or issues, u can find me through :
 
 **Github**: [theeCaesar](https://github.com/theeCaesar)
 
-**telegram**: [@thee_caesar](t.me/thee_caesar)
+**Telegram**: [@thee_caesar](t.me/thee_caesar)
+
+**LinkedIn**: [my LinkedIn profile](https://www.linkedin.com/in/mohammed-the-caesar-988053288?trk=contact-info)
