@@ -126,7 +126,7 @@ like:
 
 `#updating products work the same way`
 
-### for more endpints and information about the schemas I used, please consider reading the source code 
+### for more endpoints and information about the schemas I used, please consider reading the source code 
 
 
 ## Contact
