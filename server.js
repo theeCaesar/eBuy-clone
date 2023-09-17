@@ -10,7 +10,7 @@ dot.config({ path: './config.env' });
 const app = require('./app');
 const mongoose = require('mongoose');
 
-DB = process.env.DATABASE_andPASSWORED;
+DB = process.env.MONGODB_URI;
 
 mongoose.connect(DB).then((con) => {
   console.log('DB connected');
